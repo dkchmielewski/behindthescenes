@@ -14,6 +14,10 @@
 // console.log(name);
 
 // greet();
+'use strict';
+
 let userName = 'Max';
+
+var undefined = 5; //will throw an error with strict
 
 console.log(userName);
